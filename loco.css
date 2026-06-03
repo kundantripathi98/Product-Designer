@@ -1,7 +1,6 @@
 html.has-scroll-smooth {
     overflow: hidden; }
 
-
   html.has-scroll-dragging {
     -webkit-user-select: none;
     -moz-user-select: none;
