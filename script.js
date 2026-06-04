@@ -9,7 +9,6 @@ function circleMouseFollower(xscale, yscale){
     })
 }
 
-
 function firstPageAnimation(){
     var timeline = gsap.timeline();
 
