@@ -11,7 +11,6 @@ function circleMouseFollower(xscale, yscale){
 
 function firstPageAnimation(){
     var timeline = gsap.timeline();
-
     timeline.from('nav',{
         y: '-10',
         opacity : 0,
