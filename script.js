@@ -17,7 +17,6 @@ function firstPageAnimation(){
         duration : 1.5,
         ease: Expo.easeInOut
     })
-
     .to('.boundingelem',{
         y: 0,
         ease: Expo.easeInOut,
